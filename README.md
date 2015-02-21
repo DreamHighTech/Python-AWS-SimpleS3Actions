@@ -7,7 +7,7 @@ Prerequisites
 1.  Create an **AWS** account. Learn more about AWS here http://aws.amazon.com/getting-started/
 
 2.  Create an **IAM** user with the required permissions to perform **S3** related operations. Learn more here --> http://docs.aws.amazon.com/IAM/latest/UserGuide/GSGHowToCreateAdminsGroup.html
-	**Note**: It is advisable to assign least privileges to users.
+	| **Note**: It is advisable to assign least privileges to users.  
 	
 3.	Create an **Access Key** and **Secret Key** for your user. It is required in **Step 7**. Learn more here http://docs.aws.amazon.com/IAM/latest/UserGuide/ManagingCredentials.html#Using_CreateAccessKey
  
