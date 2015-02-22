@@ -33,12 +33,14 @@ S3 bucket
 -------------------    
 1.  More information about S3 can be found here http://aws.amazon.com/s3
 
-2.	To execute the downloaded code use the following command ``python s3-create-list-delete-bucket-object.py``
+2.  To execute the downloaded code use the following command ``python s3-create-list-delete-bucket-object.py``
 
-Support
--------------------
+Support and References
+----------------------
 Use this script at your own risk.
 
-a.	https://aws.amazon.com/premiumsupport/
-
-b.	https://www.python.org/
+a.	https://aws.amazon.com/premiumsupport/  
+b.	https://www.python.org/  
+c.	http://aws.amazon.com/python/  
+d.	http://aws.amazon.com/sdk-for-python/  
+e.	https://boto.readthedocs.org/en/latest/  
