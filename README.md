@@ -11,7 +11,7 @@ Prerequisites
 	
 3.	Create an **Access Key** and **Secret Key** for your user. It is required in **Step 7**. Learn more here http://docs.aws.amazon.com/IAM/latest/UserGuide/ManagingCredentials.html#Using_CreateAccessKey
  
-4.	Make sure you have installed **Python** https://www.python.org/downloads/
+4.	Make sure you have installed **Python** https://www.python.org/downloads/ . This code assumes that you will e installing version 2.x
 
 5.  Install **Pip** from https://pip.pypa.io/en/latest/. Pip is required to to install boto. 
     Start by downloading pip from https://bootstrap.pypa.io/get-pip.py and then install it using the command ``python get-pip.py``. To upgrade pip on Linux run command ``pip install -U pip``
